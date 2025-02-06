@@ -24,7 +24,7 @@ permalink: /team/
 - **Alexandra Burdett**, Operations Director (University of Guelph)
 - **Laine Young**, Portfolio Manager (University of Guelph)
 - **Tiffany Nam**, Knowledge Mobilization Specialist (Simon Fraser University)
-- **Nicolas Macia**, Integration Coordinator (Université de Montréal)
+- **Cécile Delignou**, Integration Coordinator (Université de Montréal)
 
 ## Climate Smart – Data Collaboration Centre (CS-DCC)
 
