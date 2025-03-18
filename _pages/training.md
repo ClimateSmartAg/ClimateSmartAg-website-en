@@ -27,3 +27,5 @@ Coming...
 
 - [Digital Research Alliance of Canada - DRAC](https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-training-modules) offers training resources on research data management and navigating data repositories. Check out the webpage for more details.
 
+- [Digital Research Alliance of Canada - DRAC](https://alliance-rdm-gdr.github.io/rdm-jumpstart-registration/) is hosting a FREE research data management course online May 12-16. Check out the webpage for registration details.
+
