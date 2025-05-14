@@ -11,6 +11,9 @@ On this page you will find different training webinars and other events either o
 Coming...
 
 ## External organizations
+
+- [Statistics Canada](https://www.statcan.gc.ca/en/wtc/data-literacy) offers several data training courses both paid and free. For the free courses scroll down to [Take our free online self-paced courses].
+  
 - [Compute Ontario Summer school](https://training.computeontario.ca/coss2025.php) runs from June 2-20,2025. The Compute Ontario Summer School offers a comprehensive curriculum packed with over 40 courses. Delivered by experts in the field, these sessions cover a wide range of topics including Advanced Research Computing (ARC), High Performance Computing (HPC), Research Data Management (RDM), and Research Software (RS). With presentations and workshops available at introductory to intermediate levels, there is something for everyone.
 
 - [Bioinformatics.ca](https://bioinformatics.ca/workshops/current-workshops/) hosts several training workshops on data analysis. The course listing and registration for [part 1 of 2025 workshops has been posted](https://bioinformatics.ca/workshops/current-workshops/). Check the [Current Workshops](https://bioinformatics.ca/workshops/current-workshops/) webpage for information on the application process and travel bursaries. Recordings and presentations from previous workshops are freely available and can be accessed from [Workshops Archive](https://bioinformatics.ca/workshops/previous-workshops/).
