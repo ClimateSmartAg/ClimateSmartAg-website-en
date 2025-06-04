@@ -8,7 +8,20 @@ permalink: /training/
 On this page you will find different training webinars and other events either offered by the Hubs or through external organizations that are relevant to CSAFS initiative projects. All events listed here are recommendations for our ICT members to consider.
 
 ## From the Hubs
-Coming...
+AG-ACt is pleased to be hosting an *Indigenous Engagement Training Session* on June 25 from 1:00 - 2:30pm EST. This session will be held virtually over zoom and recorded for your convenience.  
+Please register here: https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g  
+
+This training session is designed specifically for agricultural researchers in Canada—especially those supported by the Agricultural Genomics Action Center (AG-ACt).  
+The session offers practical, research-focused guidance on how, when, and why to engage Indigenous Peoples throughout your research process. Unlike broad EDI or health-focused trainings, this content is tailored to the realities of agri-food research. This training provides essential tools for inclusive, impactful research. 
+
+You’ll gain insights into: 
+Building respectful, reciprocal relationships; 
+Navigating ethical frameworks such as OCAP and UNDRIP; 
+Aligning research approaches with Indigenous values and priorities; and 
+Enhancing your grant proposals and knowledge mobilization plans. 
+
+Who is this for: Members of the ICT teams, hubs, and partners who are interested in learning more about respectful and reciprocal Indigenous engagement for your research. We welcome PIs, staff, project leads, HQPs (students, post-docs), and any project partners.  
+This session will be facilitated by Emily Nanne, Indigenous Engagement Advisor, and hosted by AG-ACt. 
 
 ## External organizations
 
