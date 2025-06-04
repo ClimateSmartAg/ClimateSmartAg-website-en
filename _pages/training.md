@@ -9,7 +9,7 @@ On this page you will find different training webinars and other events either o
 
 ## From the Hubs
 AG-ACt is pleased to be hosting an *Indigenous Engagement Training Session* on June 25 from 1:00 - 2:30pm EST. This session will be held virtually over zoom and recorded for your convenience.  
-Please register here: https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g  
+Please register [here](https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g)
 
 This training session is designed specifically for agricultural researchers in Canada—especially those supported by the Agricultural Genomics Action Center (AG-ACt).  
 The session offers practical, research-focused guidance on how, when, and why to engage Indigenous Peoples throughout your research process. Unlike broad EDI or health-focused trainings, this content is tailored to the realities of agri-food research. This training provides essential tools for inclusive, impactful research. 
