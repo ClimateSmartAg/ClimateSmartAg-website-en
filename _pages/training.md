@@ -8,6 +8,32 @@ permalink: /training/
 On this page you will find different training webinars and other events either offered by the Hubs or through external organizations that are relevant to CSAFS initiative projects. All events listed here are recommendations for our ICT members to consider.
 
 ## From the Hubs
+CS-DCC: We’re kicking off the training programs with our first training focused on data curation and storage. We’ve all been collecting data, so now what? The next logical step is to figure out how to safely store the data so it is preserved and easily accessible for the future and that it meets the FAIR (Findable, Accessible, Interoperable, and Reusable) principles. Below are links to resources to fit your data storage needs:
+  •	ADC (Agri-Food Data Canada) Training Modules & YouTube Videos https://www.youtube.com/playlist?list=PLWnVJ7c2CJ59Em-cZPH7CfX7pXdErVD5F
+    o	Training videos and resources exist for how to properly format and curate data files up to 5GB onto Borealis.
+    o	Great for formatting and standardizing.
+
+  •	Borealis (for 5 GB or less) https://borealisdata.ca/
+    o	Borealis is a great resource for institutional ingestion of data and licensing
+    o	Great for data storage & curation.
+
+  •	Federal Research Data Repository (FRDR) Home | FRDR-DFDR
+    o	Great for data storage for larger data sets and not limited to just academic institutions.
+
+  •	Tripal Tripal | Tripal
+    o	Great for biological (genetics, genomics, breeding) community database.
+
+  •	Other resources
+    o	Bento: https://github.com/bento-platform/bento
+    o Gen3: https://gen3.org/
+
+Additional Resources from University of Guelph (U of G) and the Digital Resource Alliance of Canada (DRAC): 
+  •	Lucia Costanzo from the U of G Library (lcostanz@uoguelph.ca)
+  •	Catherine Di Vita from the DRAC (Catherine.divita@alliancecan.ca)
+
+Questions?
+  •	Please reach out to Jaber Husiny (jhusiny@uoguelph.ca) as he is the main point of contact.
+
 AG-ACt is pleased to be hosting an *Indigenous Engagement Training Session* on June 25 from 1:00 - 2:30pm EST. This session will be held virtually over zoom and recorded for your convenience.  
 Please register [here](https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g)
 
