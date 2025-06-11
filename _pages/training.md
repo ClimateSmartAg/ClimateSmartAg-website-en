@@ -22,11 +22,11 @@ CS-DCC: We’re kicking off the training programs with our first training focuse
 
     o	Great for data storage & curation.
 
-- Federal Research Data Repository (FRDR) Home | FRDR-DFDR
+- Federal Research Data Repository (FRDR) Home https://www.frdr-dfdr.ca/repo/
     
     o	Great for data storage for larger data sets and not limited to just academic institutions.
 
-- Tripal Tripal | Tripal
+- Tripal Tripal https://tripal.info/index.php/about
     
     o	Great for biological (genetics, genomics, breeding) community database.
 
