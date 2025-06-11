@@ -24,7 +24,8 @@ Who is this for: Members of the ICT teams, hubs, and partners who are interested
 This session will be facilitated by Emily Nanne, Indigenous Engagement Advisor, and hosted by AG-ACt. 
 
 ## External organizations
-
+- [Digital Research Alliance of Canada - DRAC](https://alliancecan.ca/en/latest/events/laying-foundation-pilot-national-research-data-management-jumpstart) and the RDM National Training Expert Group are excited to invite you to join us for the upcoming presentation, "Laying the Foundation: The Pilot National Research Data Management Jumpstart". The webinar will take place on Wednesday, June 25, 2025, from 1:00pm to 2:00pm ET. Please register in advance using this link: [Register here](https://engagedri-ca.zoom.us/webinar/register/WN_lavvRiBnQm2DquDbV8hU8w).
+  
 - [Statistics Canada](https://www.statcan.gc.ca/en/wtc/data-literacy) offers several data training courses both paid and free. For the free courses scroll down to [Take our free online self-paced courses].
   
 - [Compute Ontario Summer school](https://training.computeontario.ca/coss2025.php) runs from June 2-20,2025. The Compute Ontario Summer School offers a comprehensive curriculum packed with over 40 courses. Delivered by experts in the field, these sessions cover a wide range of topics including Advanced Research Computing (ARC), High Performance Computing (HPC), Research Data Management (RDM), and Research Software (RS). With presentations and workshops available at introductory to intermediate levels, there is something for everyone.
