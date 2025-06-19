@@ -9,8 +9,8 @@ permalink: /collaborators/
 **Guillaume Bourque, PhD**<br>
 Professor, Department of Human Genetics<br>
 McGill University<br>
-Related expertise: Data governance, Data management<br>
-Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health.
+_Related expertise: Data governance, Data management<br>
+Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health._
 <br>
 <br>
 **Philippe Després, PhD**<br>
