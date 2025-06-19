@@ -9,30 +9,30 @@ permalink: /collaborators/
 **Guillaume Bourque, PhD**<br>
 Professor, Department of Human Genetics<br>
 McGill University<br>
-_Related expertise: Data governance, Data management<br>
-Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health._
+_Related expertise:_ Data governance, Data management<br>
+_Additional context:_ Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Deep understanding of FAIR data principles and open science. Member of SecureData4Health.
 <br>
 <br>
 **Philippe Després, PhD**<br>
 Professor, Department of Physics, Physical Engineering and Optics<br>
 Université Laval<br>
-Related expertise: Data governance, Data management, Data analytics<br>
-Additional context: Deep understanding of FAIR data principles and open science. Member of Digital Research Alliance of Canada.
+_Related expertise:_ Data governance, Data management, Data analytics<br>
+_Additional context:_ Deep understanding of FAIR data principles and open science. Member of Digital Research Alliance of Canada.
 <br>
 <br>
 **Laurette Dubé, PhD**<br>
 Professor Emerita<br>
 McGill University<br>
-Related expertise: Agriculture and agri-food science<br>
-Additional context: Studies complex social problems through convergence research.
+_Related expertise:_ Agriculture and agri-food science<br>
+_Additional context:_ Studies complex social problems through convergence research.
 <br>
 <br>
 **Emma Griffiths, PhD**<br>
 Lead Curator, Centre for Infectious Disease Genomics and One Health<br>
 Simon Fraser University<br>
 Related expertise: Data governance<br>
-Additional context: Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Lewis Lukens, PhD Professor, Department of Plant Agriculture University of Guelph Related expertise: Agriculture and agri-food science
-Additional context: Focus on maize and other plant species, using bioinformatics and quantitative genomics.
+_Additional context:_ Worked as part of the CanCOGeN VirusSeq project to support Canada-wide viral genomics data sharing. Lewis Lukens, PhD Professor, Department of Plant Agriculture University of Guelph Related expertise: Agriculture and agri-food science
+_Additional context:_ Focus on maize and other plant species, using bioinformatics and quantitative genomics.
 <br>
 <br>
 **Ghader Manafiazar, PhD**<br>
