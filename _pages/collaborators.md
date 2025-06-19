@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collaborateurs
+title: Collaborators
 permalink: /collaborators/
 ---
 
