@@ -46,8 +46,9 @@ Associate Professor, Department of Biochemistry and Medical Genetics<br>
 University of Manitoba<br>
 _Related expertise:_ Data analytics<br>
 _Additional context:_ Expert in RNA biology, leads the Bioinformatics network in Alberta (BioNet).<br>
-<br>
+
 ## Collaborators
+
 **Michelle Brazas, PhD**<br>
 Director, Ontario Institute for Cancer Research<br>
 Scientific Director Bioinformatics.ca Canadian Bioinformatics Workshops<br>
@@ -65,7 +66,6 @@ Assistant Professor<br>
 Université de Montréal<br>
 _Related expertise:_ Data governance, Data analytics, Agriculture and agri-food science<br>
 _Additional context:_ Leads the Plateforme IA-Agrosanté (PIAAS), a team that has developed and applied AI tools to animal health studies.<br>
-<br>
 <br>
 **Graham King, PhD**<br>
 Member & Former Executive Director DivSeek International Network<br>
