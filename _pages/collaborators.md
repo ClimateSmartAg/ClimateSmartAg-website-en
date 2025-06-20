@@ -73,7 +73,7 @@ _Related expertise:_ Data governance, Data management, Agriculture and agri-food
 _Additional context:_ Research management experience in crop plant genetics, genomics, genetic resource characterization, and data management.<br>
 <br>
 **Seok-Bum Ko, PhD**<br>
-PEng Professor, Electrical and Computer Engineering, Biomedical Engineering<br>
+P. Eng Professor, Electrical and Computer Engineering, Biomedical Engineering<br>
 University of Saskatchewan<br>
 _Related expertise:_ Data analytics<br>
 _Additional context:_ Expert in deep learning and efficient hardware implementation.<br>
