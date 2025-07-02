@@ -87,7 +87,7 @@ _Additional context:_ Research areas include microbiome, microbiology, bioinform
 **James Macklin, PhD**<br>
 Research Scientist, Botany and Biodiversity Informatics<br>
 Agriculture and Agri-Food Canada | GRDI | GenARCC<br>
-_Related expertise:_ Data governance, Climate Science<br>
+_Related expertise:_ Data governance, Data Standards and Data Management<br>
 _Additional context:_ Co-lead for GenARCC (Genomic Adaptation and Resilience to Climate Change), a federally-funded initiative that aims to inform climate change adaptation, to help protect Canada’s biodiversity, ecosystem resiliency, food security, and health.<br>
 <br>
 **Rodrigo Ortega Polo, PhD**<br>
