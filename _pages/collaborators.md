@@ -53,7 +53,7 @@ _Additional context:_ Expert in RNA biology, leads the Bioinformatics network in
 Director, Ontario Institute for Cancer Research<br>
 Scientific Director Bioinformatics.ca Canadian Bioinformatics Workshops<br>
 _Related expertise:_ Education & training<br>
-_Additional context:_ Establishing the Canadian Bioinformatics, Computational Biology, and Health Data Sciences Training & Community Platform.<br>
+_Additional context:_ Establishing the Canadian Bioinformatics Hub as a national Bioinformatics, Computational Biology and Data Sciences Training & Community Platform.<br>
 <br>
 **Melanie Courtot, PhD**<br>
 Assistant Professor, Ontario Institute for Cancer Research<br>
