@@ -63,6 +63,8 @@ Who is this for: Members of the ICT teams, hubs, and partners who are interested
 This session will be facilitated by Emily Nanne, Indigenous Engagement Advisor, and hosted by AG-ACt. 
 
 ## External organizations
+- [Digital Research Alliance of Canada - DRAC](https://events.teams.microsoft.com/event/c605f12f-d5c5-4eab-af7c-e242093f90a4@803af3d1-db74-4e57-8bce-9effc0b5932f) are hosting a FREE virtual town hall on Canada's sovereign AI compute strategy. The townhall will take place on August 7, 2025, from 12:00pm to 1:00pm EDT. Registration is required so please click the link embedded in this communication and then click the [Register] tab.
+
 - [Digital Research Alliance of Canada - DRAC](https://alliancecan.ca/en/latest/events/laying-foundation-pilot-national-research-data-management-jumpstart) and the RDM National Training Expert Group are excited to invite you to join us for the upcoming presentation, "Laying the Foundation: The Pilot National Research Data Management Jumpstart". The webinar will take place on Wednesday, June 25, 2025, from 1:00pm to 2:00pm ET. Please register in advance using this link: [Register here](https://engagedri-ca.zoom.us/webinar/register/WN_lavvRiBnQm2DquDbV8hU8w).
   
 - [Statistics Canada](https://www.statcan.gc.ca/en/wtc/data-literacy) offers several data training courses both paid and free. For the free courses scroll down to [Take our free online self-paced courses].
