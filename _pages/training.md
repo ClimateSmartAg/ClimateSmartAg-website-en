@@ -8,6 +8,20 @@ permalink: /training/
 On this page you will find different training webinars and other events either offered by the Hubs or through external organizations that are relevant to CSAFS initiative projects. All events listed here are recommendations for our ICT members to consider.
 
 ## From the Hubs
+CS-DCC: We’re continuing on the training programs with our second training focused on data schemas. Data schemas help document and log data. There is already an abundance of training and resources available for data schemas so this communication will serve as a reminder of where to find the available resources.
+
+- Carly Huitema from the University of Guelph CS-DCC provides training. Below is a link to the Semantic Engine, Climate Smart Agriculture Github, and Carly’s contact information.
+
+   o	Semantic Engine
+   o	Schemas | ClimateSmartAg - Learning
+   o	Carly’s email: huitemac@uoguelph.ca
+
+Questions?
+
+- Please reach out to Jaber Husiny (jhusiny@uoguelph.ca) as he is the main point of contact.
+
+---
+
 CS-DCC: We’re kicking off the training programs with our first training focused on data curation and storage. We’ve all been collecting data, so now what? The next logical step is to figure out how to safely store the data so it is preserved and easily accessible for the future and that it meets the FAIR (Findable, Accessible, Interoperable, and Reusable) principles. Below are links to resources to fit your data storage needs:
 
 - [ADC (Agri-Food Data Canada)](Training Modules & YouTube Videos https://www.youtube.com/playlist?list=PLWnVJ7c2CJ59Em-cZPH7CfX7pXdErVD5F)
@@ -46,6 +60,7 @@ Questions?
 
 - Please reach out to Jaber Husiny (jhusiny@uoguelph.ca) as he is the main point of contact.
 
+---
 
 AG-ACt is pleased to be hosting an *Indigenous Engagement Training Session* on June 25 from 1:00 - 2:30pm EST. This session will be held virtually over zoom and recorded for your convenience.  
 Please register [here](https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g)
