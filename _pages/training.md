@@ -14,7 +14,7 @@ CS-DCC: We’re continuing on the training programs with our second training foc
 
    o	[Semantic Engine](https://www.semanticengine.org/)
 
-   o	[Schemas | ClimateSmartAg - Learning](https://climatesmartagcollab.github.io/Documentation-en/Data_Documentation/schemas.html)
+   o	[Schemas ClimateSmartAg Learning](https://climatesmartagcollab.github.io/Documentation-en/Data_Documentation/schemas.html)
 
    o	Carly’s email: huitemac@uoguelph.ca
   
