@@ -46,8 +46,6 @@ Questions?
 
 - Please reach out to Jaber Husiny (jhusiny@uoguelph.ca) as he is the main point of contact.
 
----
-
 AG-ACt is pleased to be hosting an *Indigenous Engagement Training Session* on June 25 from 1:00 - 2:30pm EST. This session will be held virtually over zoom and recorded for your convenience.  
 Please register [here](https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g)
 
