@@ -8,6 +8,22 @@ permalink: /training/
 On this page you will find different training webinars and other events either offered by the Hubs or through external organizations that are relevant to CSAFS initiative projects. All events listed here are recommendations for our ICT members to consider.
 
 ## From the Hubs
+CS-DCC: We’re continuing on the training programs with our second training focused on data schemas. Data schemas help document and log data. There is already an abundance of training and resources available for data schemas so this communication will serve as a reminder of where to find the available resources.
+
+- Carly Huitema from the University of Guelph CS-DCC provides training. Below is a link to the Semantic Engine, Climate Smart Agriculture Github, and Carly’s contact information.
+
+   o	[Semantic Engine](https://www.semanticengine.org/)
+
+   o	[Schemas | ClimateSmartAg - Learning](https://climatesmartagcollab.github.io/Documentation-en/Data_Documentation/schemas.html)
+
+   o	Carly’s email: huitemac@uoguelph.ca
+  
+Questions?
+
+- Please reach out to Jaber Husiny (jhusiny@uoguelph.ca) as he is the main point of contact.
+
+---
+
 CS-DCC: We’re kicking off the training programs with our first training focused on data curation and storage. We’ve all been collecting data, so now what? The next logical step is to figure out how to safely store the data so it is preserved and easily accessible for the future and that it meets the FAIR (Findable, Accessible, Interoperable, and Reusable) principles. Below are links to resources to fit your data storage needs:
 
 - [ADC (Agri-Food Data Canada)](Training Modules & YouTube Videos https://www.youtube.com/playlist?list=PLWnVJ7c2CJ59Em-cZPH7CfX7pXdErVD5F)
@@ -46,6 +62,7 @@ Questions?
 
 - Please reach out to Jaber Husiny (jhusiny@uoguelph.ca) as he is the main point of contact.
 
+---
 
 AG-ACt is pleased to be hosting an *Indigenous Engagement Training Session* on June 25 from 1:00 - 2:30pm EST. This session will be held virtually over zoom and recorded for your convenience.  
 Please register [here](https://zoom.us/meeting/register/Za6OdVqOReqUlcD0hvIx_g)
@@ -61,6 +78,8 @@ Enhancing your grant proposals and knowledge mobilization plans.
 
 Who is this for: Members of the ICT teams, hubs, and partners who are interested in learning more about respectful and reciprocal Indigenous engagement for your research. We welcome PIs, staff, project leads, HQPs (students, post-docs), and any project partners.  
 This session will be facilitated by Emily Nanne, Indigenous Engagement Advisor, and hosted by AG-ACt. 
+
+---
 
 ## External organizations
 - [Digital Research Alliance of Canada - DRAC](https://alliancecan.ca/en/latest/events/laying-foundation-pilot-national-research-data-management-jumpstart) and the RDM National Training Expert Group are excited to invite you to join us for the upcoming presentation, "Laying the Foundation: The Pilot National Research Data Management Jumpstart". The webinar will take place on Wednesday, June 25, 2025, from 1:00pm to 2:00pm ET. Please register in advance using this link: [Register here](https://engagedri-ca.zoom.us/webinar/register/WN_lavvRiBnQm2DquDbV8hU8w).
