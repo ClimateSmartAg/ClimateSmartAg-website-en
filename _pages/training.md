@@ -8,6 +8,88 @@ permalink: /training/
 On this page you will find different training webinars and other events either offered by the Hubs or through external organizations that are relevant to CSAFS initiative projects. All events listed here are recommendations for our ICT members to consider.
 
 ## From the Hubs
+CS-DCC: We’re continuing on the training programs with our third training focusing on Github.
+
+Date & Time: September 23rd, 2025 1 – 2pm EDT.
+
+Location: Online via Teams using registration link https://events.teams.microsoft.com/event/1cb28c4c-1c83-4191-a1db-72756107fe12@be62a12b-2cad-49a1-a5fa-85f4f3156a7d
+
+Github
+
+- Live demo/workshop of each of these resources and what each platform provides. Session will be recorded. Links will be uploaded on our website, discussion forum, and other platforms.
+
+- Structure:
+  
+   o	Introduction (who you are, what you do, and why GitHub is important)
+
+   o	Purpose of GitHub and how to apply it to your group
+
+   o	Invite Carly and Jerome to be guest speakers
+
+   o	Features
+
+   o	Conclusion
+
+   o	Survey will be sent out shortly following the webinar
+  
+Learning Objectives
+
+   1. Attendees will gain a basic understanding of Github
+   
+   2.	Attendees will learn to navigate Github for support
+      
+   3.	Attendees will feel comfortable enough to use Github tools for group projects
+
+Introduction
+
+- Who we are:
+
+   o	Jaber Husiny: CS-DCC
+
+   o	Data Training Task Force: Mixed group
+
+- What we do:
+
+   o	Provide data training and resources to the 9 ICTs
+
+   o	Be a support for ICTs to ask questions
+
+Github
+
+- What is it?
+
+   o	Github is a web-based platform that allows for storage and management of info/data, track changes, collaborate with others, and archive info/data
+
+   o	Free (mostly)
+
+- How does it apply?
+
+   o	Provides a free web-based platform for communication, file sharing, and storage for ICTs
+
+   o	Easy to communicate within or outside of your organization
+
+Guest speakers
+
+- Dr. Carly Huitema
+
+   o	Manager, Agri-food Data Strategy & part of the CS-DCC Guelph group
+
+- Dr. Jérôme Laroche 
+
+   o	Project Administrator (Université Laval) & part of the CS-DCC group & Data Training Task Force
+
+How is Github relevant to the portfolio?
+
+- Provides open access data training and data sharing for ICTs
+
+- Allows for sharing of data to the public
+
+Questions?
+
+- Contacts: Jaber Husiny (jhusiny@uoguelph.ca), Carly Huitema (huitemac@uoguelph.ca) 
+
+---
+
 CS-DCC: We’re continuing on the training programs with our second training focused on data schemas. Data schemas help document and log data. There is already an abundance of training and resources available for data schemas so this communication will serve as a reminder of where to find the available resources.
 
 - Carly Huitema from the University of Guelph CS-DCC provides training. Below is a link to the Semantic Engine, Climate Smart Agriculture Github, and Carly’s contact information.
