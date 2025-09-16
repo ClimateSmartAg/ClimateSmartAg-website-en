@@ -164,6 +164,21 @@ This session will be facilitated by Emily Nanne, Indigenous Engagement Advisor, 
 ---
 
 ## External organizations
+- The FRDR curation services team at the Digital Research Alliance of Canada is pleased to invite you to participate in The Curation Clinic: Essentials for depositing research data. We will discuss how to collaborate with researchers on the essential components of well-documented data deposits, such as titles, descriptions, keywords, READMEs, and codebooks.
+
+  What to expect:
+    - Experiences and discussions about improving dataset metadata
+    - Sharing suitable tools to streamline dataset descriptions
+    - Examples of key elements in titles, descriptions, and README files
+    - Community members' questions and exchanges with curator peers.
+
+  We want these sessions to be engaging, collaborative and, most importantly, useful for your professional role. Whether you're just curious or actively working     through a tricky dataset, we welcome your participation.
+
+  Session details
+    Date: Wednesday 1st October 2025
+    Time: 10 AM (Pacific) / 11 am (Mountain) / 1 PM (Eastern) / 2 PM (Atlantic) via Zoom
+    Click [here](https://engagedri-ca.zoom.us/meeting/register/R8B8jQfAR8Wlv36Rtzr1DA#/registration) to register
+
 - [Athabasca University](https://powered.athabascau.ca/product?catalog=Research-Data-Management) is hosting an Intro to Research Data Management course. The course is FREE, but due to platform/website limitations it will prompt you to to pay/buy the course so enter the coupon code 'researchfree' to bypass payment.
   
 - [Government of Canada](https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management) has updated their website pertaining to Research Data Management. Look through the webpage to see updates on Research Data Management policy, funding opportunities and FAQ.
