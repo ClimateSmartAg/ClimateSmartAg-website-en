@@ -164,6 +164,10 @@ This session will be facilitated by Emily Nanne, Indigenous Engagement Advisor, 
 ---
 
 ## External organizations
+- Check out DRAC's Explora training portal to see upcoming training opportunities. Click the [Upcoming Events Page](https://explora.alliancecan.ca/events) to see more details.
+
+- Resource Allocation Competition now open! Apply for compute, storage and cloud resources. Annual Resource Allocation Competition (RAC) is open. Faculty members at Canadian institutions can apply for priority access to compute, storage and cloud resources beyond what is available through the Rapid Access Service. Proposals to RAC must be submitted electronically through the [CCDB](https://ccdb.alliancecan.ca/security/login) by November 4, 2025, at 11:59 p.m. ET. Visit the [RAC](https://docs.alliancecan.ca/wiki/Resource_Allocation_Competition) webpage for important information, competition details and information session registration.
+
 - [Digital Research Alliance of Canada - DRAC](https://explora.alliancecan.ca/) has introduced their search engine Explora. Users can search Explora for workshops, webinars, bootcamps, and other training events across Canada designed to help researchers at any career stage develop skills in advanced research computing, research data management, and research software.
 
 - The FRDR curation services team at the Digital Research Alliance of Canada is pleased to invite you to participate in The Curation Clinic: Essentials for depositing research data. We will discuss how to collaborate with researchers on the essential components of well-documented data deposits, such as titles, descriptions, keywords, READMEs, and codebooks.
